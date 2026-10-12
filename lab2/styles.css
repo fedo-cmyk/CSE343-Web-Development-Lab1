@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+.header {
+    background-color: #222222;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.header a {
+    color: white;
+    margin: 10px;
+}
+
+.section {
+    text-align: center;
+    padding: 40px;
+}
+
+.card {
+    background-color: white;
+    display: inline-block;
+    width: 200px;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid gray;
+    text-align: left;
+}
+
+input, textarea {
+    padding: 8px;
+    width: 250px;
+}
+
+button {
+    background-color: #222222;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #222222;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
